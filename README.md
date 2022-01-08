@@ -6,7 +6,7 @@
 
 - 💡 I’m currently learning **Swift**
  
-- 📧 You can reach me from **alicantozlu@gmail.com**
+- 📭 You can reach me from **alicantozlu@gmail.com**
 
 <h3 align="left">You can find me at:</h3>
 <p align="center">
