@@ -1,12 +1,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ali Can</h1>
 
-- 🌱 I’m currently learning **Swift**
- 
-- 📫 You can reach me from **alicantozlu@gmail.com**
+- ⌨️ I'm a mobile application developer, from Turkey.
 
-<h3 align="left">Connect with me:</h3>
+- 💡 I’m currently learning **Swift**
+ 
+- 📧 You can reach me from **alicantozlu@gmail.com** and check my <a href="https://linkedin.com/in/alicantozlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alicantozlu" height="30" width="40" /></a> profile.
+
+<h3 align="left">You can find me at:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alicantozlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alicantozlu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15278859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15278859" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alicantozlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alicantozlu" height="30" width="40" /></a>
 </p>
