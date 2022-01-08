@@ -2,7 +2,7 @@
 
 - ⌨️ I'm a mobile application developer, from Turkey.
 
-- 🖱️ So far I have Android(with Java) and React-Native development experience.
+- 🖱️ So far I have **Android**(with Java) and **React-Native** development experience.
 
 - 💡 I’m currently learning **Swift**
  
