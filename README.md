@@ -58,6 +58,5 @@
 </p>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alicantozlu&show_icons=true&theme=dark&locale=en" alt="alicantozlu" /> 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alicantozlu&theme=dark" alt="alicantozlu" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=alicantozlu&show_icons=true&theme=dark&locale=en" alt="alicantozlu" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alicantozlu&theme=dark" alt="alicantozlu" />
 </p>
