@@ -1,10 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ali Can</h1>
 
-- ⌨️ I'm a mobile application developer, from Turkey.
-
-- 🖱️ So far I have **Android**(with Java) and **React-Native** development experience.
-
-- 💡 I’m currently learning **Swift**
+- ⌨️ I'm a IOS developer, from Turkey.
 
 - 📭 You can reach me from **alicantozlu@gmail.com**
 
